@@ -909,3 +909,5 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 http://stream.mcquack.net/377/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",ZooMoo (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cartoonss" tvg-name="cartoonss" tvg-logo="https://i.imgur.com/8QGjYtU.png" group-title="Kids & Cartoons",cartoonss
+https://ducktv-rakuten.amagi.tv/playlist.m3u8
