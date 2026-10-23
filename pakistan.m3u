@@ -211,3 +211,33 @@ http://103.250.28.74:8000/play/a00w/index.m3u8
 http://103.250.28.74:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="ZindagiTV.pk@SD" tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Undefined",Zindagi TV (576p) [Not 24/7]
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Hum_TV_logo.svg/320px-Hum_TV_logo.svg.png" group-title="Pakistani",Hum TV (Dramas)
+https://d2q854pe5vsba2.cloudfront.net/v1/master/a4be291533da8027dbfb731c360875c4ab9d77dd/HumTv_Live/index.m3u8
+
+#EXTINF:-1 tvg-id="ARYDigital.pk" tvg-name="ARY Digital" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ARY_Digital_logo.svg/320px-ARY_Digital_logo.svg.png" group-title="Pakistani",ARY Digital HD
+https://liveary.akamaized.net/hls/live/2034947/arydigital/master.m3u8
+
+#EXTINF:-1 tvg-id="GeoKahani.pk" tvg-name="Geo Kahani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Geo_Kahani_logo.svg/320px-Geo_Kahani_logo.svg.png" group-title="Pakistani",Geo Kahani (Dramas)
+https://live.harpalgeo.tv/geokahani/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GreenEntertainment.pk" tvg-name="Green TV Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Green_Entertainment_logo.png/320px-Green_Entertainment_logo.png" group-title="Pakistani",Green TV Entertainment
+https://stream.greenentertainment.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-name="Express Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Express_Entertainment_logo.svg/320px-Express_Entertainment_logo.svg.png" group-title="Pakistani",Express Entertainment
+https://live.express.pk/entertainment/live.m3u8
+
+#EXTINF:-1 tvg-id="APlus.pk" tvg-name="A-Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/A-Plus_Entertainment_logo.svg/320px-A-Plus_Entertainment_logo.svg.png" group-title="Pakistani",A-Plus Entertainment
+https://aplus.streamguys1.com/live/aplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Urdu1.pk" tvg-name="Urdu 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Urdu_1_logo.svg/320px-Urdu_1_logo.svg.png" group-title="Pakistani",Urdu 1 (Dramas)
+https://urdu1live.akamaized.net/hls/live/2035221/urdu1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PTVHome.pk" tvg-name="PTV Home" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/PTV_Home_logo.svg/320px-PTV_Home_logo.svg.png" group-title="Pakistani",PTV Home (Classic Dramas)
+https://ptvhome.akamaized.net/hls/live/2034948/ptvhome/master.m3u8
+
+#EXTINF:-1 tvg-id="LTNFamily.pk" tvg-name="LTN Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/LTN_Family_Logo.png/320px-LTN_Family_Logo.png" group-title="Pakistani",LTN Family
+https://stream.ltnfamily.tv/hls/live/master.m3u8
+
+#EXTINF:-1 tvg-id="AurLife.pk" tvg-name="Aur Life" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Aur_Life_Logo.png/320px-Aur_Life_Logo.png" group-title="Pakistani",Aur Life HD
+https://live.aurlife.tv/hls/stream.m3u8
