@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PitaaraTV.in" tvg-name="Pitaara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Pitaara_TV_logo.png/320px-Pitaara_TV_logo.png" group-title="Punjabi Movies",Pitaara TV (24/7 Punjabi Movies)
+https://live.pitara.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/maha-punjabi.png" group-title="Punjabi Movies",Maha Punjabi Cinema HD
+https://live.mahapunjabi.in/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/PTC_Punjabi_logo.png/320px-PTC_Punjabi_logo.png" group-title="Punjabi Movies",PTC Punjabi Gold Movies
+https://stream.ptcplay.com/hls/ptcgold.m3u8
+
+#EXTINF:-1 tvg-id="ChardiklaTime.in" tvg-name="Chardikla Time TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/chardikla-time-tv.png" group-title="Punjabi Movies",Chardikla Punjabi Cinema
+https://stream.chardikla.com/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanPunjabi.in" tvg-name="Manoranjan Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/manoranjan-movies.png" group-title="Punjabi Movies",Manoranjan Punjabi Movies HD
+https://stream.manoranjan.tv/hls/punjabi.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHitsCinema.in" tvg-name="Punjabi Hits Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/punjabi-hits.png" group-title="Punjabi Movies",Punjabi Cinema Hits 24/7
+https://stream.punjabihits.tv/live/master.m3u8
