@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ActionCinema.us" tvg-name="Hollywood Action 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/action-cinema.png" group-title="Hollywood Movies",Hollywood Action Cinema 24/7 HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2374
+
+#EXTINF:-1 tvg-id="FilmzieHollywood.us" tvg-name="Filmzie Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmzie.png" group-title="Hollywood Movies",Filmzie Hollywood Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1409
+
+#EXTINF:-1 tvg-id="CinevaultHits.us" tvg-name="Cinevault Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinevault.png" group-title="Hollywood Movies",Cinevault Hollywood Hits HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1028
+
+#EXTINF:-1 tvg-id="DarkMatterCinema.us" tvg-name="Dark Matter Sci-Fi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/dark-matter.png" group-title="Hollywood Movies",Sci-Fi & Thriller Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1843
+
+#EXTINF:-1 tvg-id="MyTimeMovie.us" tvg-name="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mytime-movie-network.png" group-title="Hollywood Movies",Hollywood Thrillers & Romance HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1073
+
+#EXTINF:-1 tvg-id="HollywoodClassic.us" tvg-name="Hollywood Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/classic-cinema.png" group-title="Hollywood Movies",Hollywood Gold Classics HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2145
